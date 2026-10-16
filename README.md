@@ -2,6 +2,8 @@
 
 <img src="assets/banner.svg" alt="edd@glitch:~$ whoami. Edd, arquitecto de sistemas de IA" width="100%">
 
+<img src="assets/stats.svg" alt="Estadísticas de GitHub de Eddglitch: repositorios públicos, contribuciones de las últimas 52 semanas, lenguajes principales y actividad semanal" width="100%">
+
 </div>
 
 ### `~$ cat about.md`
